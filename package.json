@@ -1,0 +1,10 @@
+{
+  "script": {
+    "generate-docs": "node_modules/.bin/jsdoc -c jsdoc.json"
+  },
+  "devDependencies": {
+    "docdash": "^2.0.2",
+    "jsdoc": "^4.0.3",
+    "jsdoc-to-markdown": "^8.0.1"
+  }
+}
